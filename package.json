@@ -1,0 +1,27 @@
+{
+  "name": "yunpiansms",
+  "version": "0.0.1",
+  "description": "A Node.js SDK for Yunpian SMS.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ivershuo/yunpiansms.git"
+  },
+  "keywords": [
+    "yunpian",
+    "sms"
+  ],
+  "dependencies": {
+    "when": "~3.7.2",
+    "request": "~2.54.0",
+  },
+  "author": "ivershuo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ivershuo/yunpiansms/issues"
+  },
+  "homepage": "https://github.com/ivershuo/yunpiansms"
+}
