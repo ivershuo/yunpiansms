@@ -1,6 +1,8 @@
 A Node.js SDK for Yunpian SMS.
 ---
 
+>npm install yunpiansms
+
 The interface is similar to the [API](http://www.yunpian.com/api/usage.html).
 
 `yunpiansms.{resource}.{function}()`
